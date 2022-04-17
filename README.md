@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
   ----
 
-## 🧰 LANGUAGES & TOOLS
+#### 🧰 LANGUAGES & TOOLS
 
-<p align="left">
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=XML)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat-square&logo=Google-Analytics) 
-</p>
+
 
 ----
 
