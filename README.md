@@ -2,9 +2,7 @@
 
 <!--
 **fabricio476/fabricio476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  ----
+
+## 🧰 LANGUAGES & TOOLS
+
+<p align="left">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-FF0000?style=flat-square&logo=java)
+![php](https://img.shields.io/badge/-php-FFFFFF?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/--808080?style=flat-square&logo=C)   
+![C++](https://img.shields.io/badge/-C++-808080?style=flat-square&logo=c++)
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=C%23)  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![postgresql](https://img.shields.io/badge/-postgresql-white?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
+![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=XML)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat-square&logo=Google-Analytics) 
+</p>
+
+----
+
+![](https://visitor-badge.laobi.icu/badge?page_id=fabricio476.fabricio476) 
+[![Github](https://img.shields.io/github/followers/fabricio476?label=Followers&logo=Github)](https://github.com/fabricio476)
+
+
+
+
