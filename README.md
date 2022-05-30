@@ -24,15 +24,12 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-java-FF0000?style=flat-square&logo=java)
 ![php](https://img.shields.io/badge/-php-FFFFFF?style=flat-square&logo=php)
 ![C](https://img.shields.io/badge/--808080?style=flat-square&logo=C)   
-![C++](https://img.shields.io/badge/-C++-808080?style=flat-square&logo=c++)
 ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=C%23) 
 ![android](https://img.shields.io/badge/-black?style=flat-square&logo=android)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![postgresql](https://img.shields.io/badge/-postgresql-white?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
-![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=XML)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat-square&logo=Google-Analytics) 
 
 
