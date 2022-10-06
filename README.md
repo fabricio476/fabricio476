@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+#### 💻 LANGUAGES 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio476&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -15,13 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  ----
 
-#### 💻 LANGUAGES & TOOLS
-
-
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-java-FF0000?style=flat-square&logo=java)
@@ -30,8 +27,16 @@ Here are some ideas to get you started:
 ![android](https://img.shields.io/badge/-black?style=flat-square&logo=android)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![postgresql](https://img.shields.io/badge/-postgresql-white?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+-->
+  ----
+
+
+
+
+
+
+
 
 
 ----
